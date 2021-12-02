@@ -1,4 +1,11 @@
 package com.example.myapplication
 
-class Tela 3 {
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+
+class Tela3: AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.tela3)
+    }
 }
