@@ -34,13 +34,15 @@
         android:id="@+id/textView"
         android:layout_width="111dp"
         android:layout_height="32dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="20dp"
         android:text="Criar grupo"
         android:textAlignment="center"
         android:textSize="18sp"
         android:textStyle="bold"
         app:autoSizeTextType="uniform"
-        tools:layout_editor_absoluteX="145dp"
-        tools:layout_editor_absoluteY="88dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <TextView
         android:id="@+id/textView2"
