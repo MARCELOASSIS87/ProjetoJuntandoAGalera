@@ -14,7 +14,7 @@
         app:rippleColor="#00BCD4"
         app:strokeColor="#00BCD4"
         tools:layout_editor_absoluteX="110dp"
-        tools:layout_editor_absoluteY="584dp" />
+        tools:layout_editor_absoluteY="584dp"  />
 
     <EditText
         android:id="@+id/editTextTextPersonName"
