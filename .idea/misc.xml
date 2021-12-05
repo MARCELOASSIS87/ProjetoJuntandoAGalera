@@ -3,18 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/ProjetoJuntandoAGalera-1-master/ProjetoJuntandoAGalera-1/app/src/main/res/layout/tela1.xml" value="0.36666666666666664" />
-        <entry key="..\:/ProjetoJuntandoAGalera-1-master/ProjetoJuntandoAGalera-1/app/src/main/res/layout/tela7.xml" value="0.36666666666666664" />
+
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/tela1.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/tela2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tela2.xml" value="0.25" />
         <entry key="app/src/main/res/layout/tela3.xml" value="0.1" />
         <entry key="app/src/main/res/layout/tela4.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/tela5.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tela5.xml" value="0.25" />
         <entry key="app/src/main/res/layout/tela6.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/tela7.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tela7.xml" value="0.33" />
         <entry key="app/src/main/res/layout/tela8.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/tela9.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tela9.xml" value="0.23545706371191136" />
         <entry key="app/src/main/res/layout/tela_1.xml" value="0.1" />
       </map>
     </option>
