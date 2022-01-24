@@ -1,6 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/Confimar"
+        android:layout_width="191dp"
+        android:layout_height="88dp"
+        android:backgroundTint="#009688"
+        android:text="Confirmar"
+        app:rippleColor="#00BCD4"
+        app:strokeColor="#00BCD4"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="584dp"  />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Nome/id"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="262dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Confirmar senha"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="451dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Senha"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="352dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="503dp"
+        tools:text="********" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="397dp"
+        tools:text="********" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="user168798"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="302dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="403dp"
+        android:layout_height="68dp"
+        android:text="Juntando a Galera"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="319dp"
+        android:layout_height="73dp"
+        android:text="Nova Conta"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="164dp" />
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
